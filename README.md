@@ -1,6 +1,6 @@
 # 🏀 Kevin Chiduku | Aspiring Software Engineer
 **UCAS ID:** 2058290662  
-**Location:** Cardiff / Manchester
+**Location:** Cardiff
 
 ## 🚀 The Technical Pivot
 Transitioning from a background in Criminology to Data-Driven Software Engineering. I specialize in turning complex sociological data into actionable software insights.
