@@ -1,16 +1,18 @@
-## Hi there 👋
+# 🏀 Kevin Chiduku | Aspiring Software Engineer
+**UCAS ID:** 2058290662  
+**Location:** Cardiff / Manchester
 
-<!--
-**KCTD16/KCTD16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 The Technical Pivot
+Transitioning from a background in Criminology to Data-Driven Software Engineering. I specialize in turning complex sociological data into actionable software insights.
 
-Here are some ideas to get you started:
+### 🛠️ Current Training Camp
+- **Languages:** Python (Flask), HTML5, CSS3 (Modern UI/UX)
+- **Data Engineering:** Integrated UK Police Public API to audit 5,000+ incidents.
+- **Security:** Implementing standard `.env` and `.gitignore` protocols.
+- **Math Foundations:** Intensive retraining in Algebra and Logic (Current: 12% Mastery).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Major Highlights
+- **Urban Crime Tracker:** Identified a systemic data reporting gap in Greater Manchester Police API.
+- **UK Weather Hub:** Developed a multi-city dashboard with secured API logic.
+
+*"Consistency beats talent when talent doesn't work hard."*
